@@ -1,0 +1,6 @@
+#!/bin/bash
+names='Jason,Joh,Jnae'
+for i in $names
+do 
+	echo Hello $i
+done
